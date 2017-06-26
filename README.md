@@ -1,0 +1,2 @@
+# dashboard
+Simple server dashboard
