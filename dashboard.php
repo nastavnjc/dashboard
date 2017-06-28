@@ -1,11 +1,11 @@
 <html><head><title>Sample Dashboard</title></head>
 <body>
 <h3>Press a button:<br />
-<button onclick="window.location='d.php?command=genpwd'">Generate Pwd</button>
-<button onclick="window.location='d.php?command=uname'">Kernel Name</button>
-<button onclick="window.location='d.php?command=ip'">IP Address</button>
-<button onclick="window.location='d.php?command=listen'">Port listening</button>
-<button onclick="window.location='d.php?command=weather&option=Dallas'">Weather</button>
+<button onclick="window.location='dashboard.php?command=genpwd'">Generate Pwd</button>
+<button onclick="window.location='dashboard.php?command=uname'">Kernel Name</button>
+<button onclick="window.location='dashboard.php?command=ip'">IP Address</button>
+<button onclick="window.location='dashboard.php?command=listen'">Port listening</button>
+<button onclick="window.location='dashboard.php?command=weather&option=Dallas'">Weather</button>
 </h3>
 <?php
 
